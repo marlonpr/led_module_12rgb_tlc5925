@@ -4,5 +4,2742 @@
 	(generator_version "10.0")
 	(uuid "fa14d69e-de6d-4272-8c5a-44b97bf82b74")
 	(paper "A4")
-	(lib_symbols)
+	(lib_symbols
+		(symbol "LED_CV28:LED_CV28"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "D"
+				(at -0.254 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "LED_CV28"
+				(at 2.794 -16.51 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "CV28D-FCC:LED_CV28"
+				(at -0.762 2.794 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1 1)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "LED_CV28_1_1"
+				(polyline
+					(pts
+						(xy -2.67 0.2) (xy -3.67 1.2)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.67 -0.2) (xy -3.67 -1.2)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.67 -5.8) (xy -3.67 -4.8)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.67 -6.2) (xy -3.67 -7.2)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.67 -11.8) (xy -3.67 -10.8)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.67 -12.2) (xy -3.67 -13.2)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.47 0.5) (xy -3.47 1.5)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.47 -0.5) (xy -3.47 -1.5)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.47 -5.5) (xy -3.47 -4.5)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.47 -6.5) (xy -3.47 -7.5)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.47 -11.5) (xy -3.47 -10.5)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.47 -12.5) (xy -3.47 -13.5)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.5) (xy -1.27 -1.5)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -4.5) (xy -1.27 -7.5)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -10.5) (xy -1.27 -13.5)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.73 1.5) (xy 0.73 -1.5) (xy -1.27 0) (xy 0.73 1.5)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.73 -4.5) (xy 0.73 -7.5) (xy -1.27 -6) (xy 0.73 -4.5)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.73 -10.5) (xy 0.73 -13.5) (xy -1.27 -12) (xy 0.73 -10.5)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.5)
+					(name "B_C"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -6.35 0)
+					(length 2.5)
+					(name "G_C"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -12.7 0)
+					(length 2.5)
+					(name "R_C"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -12.7 180)
+					(length 2.5)
+					(name "R_A"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -6.35 180)
+					(length 2.5)
+					(name "G_A"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.5)
+					(name "B_A"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 124.46 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "20b0a3f1-7ddb-4525-8e61-a1e5b9c583dd")
+	)
+	(junction
+		(at 146.05 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3ab369f3-3a0d-405e-a14f-29e8e4501ef5")
+	)
+	(junction
+		(at 130.81 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "441afa54-e277-4040-817d-9ce6167f5aa1")
+	)
+	(junction
+		(at 118.11 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5238b13f-f8f9-4250-b660-b879e24ed886")
+	)
+	(junction
+		(at 111.76 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5666213c-2971-46b2-9a3d-c1169c364fe9")
+	)
+	(junction
+		(at 99.06 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "59332687-5697-4e08-8b16-364cc34aa0f7")
+	)
+	(junction
+		(at 73.66 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "75599bd2-c183-4d06-8565-6525d2ebf43e")
+	)
+	(junction
+		(at 105.41 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7f3b0322-00ba-4074-931f-08a5adbe229c")
+	)
+	(junction
+		(at 80.01 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b513c5d7-e633-4176-967a-e878f89d4e03")
+	)
+	(junction
+		(at 152.4 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6b2736b-9a04-4b8a-8e36-4155d6ce2728")
+	)
+	(junction
+		(at 92.71 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d2697a80-7700-42d2-bde8-2093b7cb191e")
+	)
+	(wire
+		(pts
+			(xy 146.05 91.44) (xy 143.51 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "019fcb50-ae2a-491d-a446-3759bf862d63")
+	)
+	(wire
+		(pts
+			(xy 124.46 71.12) (xy 124.46 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05ce4e68-83dd-409c-a6ad-ffed15abfc6f")
+	)
+	(wire
+		(pts
+			(xy 99.06 31.75) (xy 105.41 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d0653bc-3c05-4b90-af4d-c280fcd9d196")
+	)
+	(wire
+		(pts
+			(xy 80.01 71.12) (xy 80.01 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d632690-c9cc-41eb-b753-335b19244952")
+	)
+	(wire
+		(pts
+			(xy 146.05 88.9) (xy 146.05 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e6a2a7d-5ce9-4b79-8ccb-9197fe9ed999")
+	)
+	(wire
+		(pts
+			(xy 99.06 31.75) (xy 99.06 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f0caf74-4ed3-4607-8e86-4a0370c08598")
+	)
+	(wire
+		(pts
+			(xy 67.31 71.12) (xy 67.31 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "118b41e2-5290-4b4b-8997-53a1b3bf678e")
+	)
+	(wire
+		(pts
+			(xy 152.4 95.25) (xy 118.11 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1391788f-e551-43ae-a6fc-467dc7bd644c")
+	)
+	(wire
+		(pts
+			(xy 124.46 93.98) (xy 115.57 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1442274a-7e90-4dbe-b477-55ed8fecbac0")
+	)
+	(wire
+		(pts
+			(xy 113.03 93.98) (xy 113.03 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17664ab3-f25d-4786-a866-a72fe6d7b832")
+	)
+	(wire
+		(pts
+			(xy 73.66 95.25) (xy 110.49 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17be81f1-c062-4868-9df0-c20ab53f3b78")
+	)
+	(wire
+		(pts
+			(xy 105.41 71.12) (xy 105.41 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bcd4fb5-a08a-420a-a85f-cf983aa882a8")
+	)
+	(wire
+		(pts
+			(xy 143.51 91.44) (xy 143.51 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e9cdd13-984f-4500-9542-54af9de1741e")
+	)
+	(wire
+		(pts
+			(xy 152.4 71.12) (xy 152.4 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2670fffe-3e1b-48bf-9d76-59ab22233b25")
+	)
+	(wire
+		(pts
+			(xy 80.01 53.34) (xy 80.01 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "276620bc-8476-4a73-a85d-67ad5cfe8f96")
+	)
+	(wire
+		(pts
+			(xy 124.46 53.34) (xy 124.46 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d48e94b-9f38-409e-ba08-fd6cd758fa87")
+	)
+	(wire
+		(pts
+			(xy 90.17 97.79) (xy 90.17 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30cef8ee-66e9-4bd9-aced-891edf860e82")
+	)
+	(wire
+		(pts
+			(xy 92.71 31.75) (xy 99.06 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33ce43a9-4828-4b1f-af9b-ecb11310b2af")
+	)
+	(wire
+		(pts
+			(xy 73.66 71.12) (xy 73.66 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33eb9828-bb01-4e0b-87b9-926cc17dc33e")
+	)
+	(wire
+		(pts
+			(xy 105.41 99.06) (xy 87.63 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34bb43e6-8a05-4d26-9ae3-c40faa40b89c")
+	)
+	(wire
+		(pts
+			(xy 124.46 31.75) (xy 130.81 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34bb9e24-7f62-4297-8c46-5f150bc64f02")
+	)
+	(wire
+		(pts
+			(xy 140.97 90.17) (xy 140.97 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "362862d3-34e3-4108-9cef-8cb91a24a5ee")
+	)
+	(wire
+		(pts
+			(xy 158.75 88.9) (xy 158.75 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38bc3273-6adf-4d72-8d73-2e2382f71652")
+	)
+	(wire
+		(pts
+			(xy 118.11 71.12) (xy 118.11 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e78a549-5a49-4bb5-916b-27baf49d7c78")
+	)
+	(wire
+		(pts
+			(xy 124.46 31.75) (xy 124.46 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44034013-920b-4c8e-ae48-3ebf650fda9a")
+	)
+	(wire
+		(pts
+			(xy 158.75 53.34) (xy 158.75 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b7a25b0-9fd3-4513-877d-47e9ae34cde4")
+	)
+	(wire
+		(pts
+			(xy 92.71 91.44) (xy 138.43 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4be22575-10a2-4c49-8d54-dd59620d0e01")
+	)
+	(wire
+		(pts
+			(xy 138.43 91.44) (xy 138.43 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e026f73-6868-420a-a431-32a3cd34b1a5")
+	)
+	(wire
+		(pts
+			(xy 111.76 31.75) (xy 105.41 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e3499b3-7dac-48a7-98c2-0a2882220e9d")
+	)
+	(wire
+		(pts
+			(xy 92.71 96.52) (xy 92.71 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ffbefa4-2c25-4848-aa55-63e3f43e72fc")
+	)
+	(wire
+		(pts
+			(xy 73.66 53.34) (xy 73.66 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50020a49-b261-41ac-89f3-564a4fb487cf")
+	)
+	(wire
+		(pts
+			(xy 158.75 71.12) (xy 158.75 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56aff0c9-b310-4a63-8787-ae96ade469bb")
+	)
+	(wire
+		(pts
+			(xy 99.06 93.98) (xy 113.03 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "571385ab-a295-44bd-a6ff-6d0b37b627b3")
+	)
+	(wire
+		(pts
+			(xy 92.71 71.12) (xy 92.71 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "578c4d0e-ec76-431b-85f4-9e37741f744e")
+	)
+	(wire
+		(pts
+			(xy 92.71 31.75) (xy 92.71 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58468d54-1ea9-4e8e-b7a7-547dc819a0f1")
+	)
+	(wire
+		(pts
+			(xy 135.89 92.71) (xy 135.89 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58c0fdba-8fd7-4189-9462-221321accf76")
+	)
+	(wire
+		(pts
+			(xy 111.76 29.21) (xy 111.76 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ba204a8-ec1d-466d-b9ea-0075cb5bfd44")
+	)
+	(wire
+		(pts
+			(xy 85.09 101.6) (xy 85.09 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ce9cae0-0f78-4e36-9643-3adc0783f96f")
+	)
+	(wire
+		(pts
+			(xy 124.46 88.9) (xy 124.46 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ff7b7af-5e0d-48b0-87e1-96e6cdc79c1d")
+	)
+	(wire
+		(pts
+			(xy 99.06 53.34) (xy 99.06 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67494753-7cf5-49d9-8ae5-e6f58a2c4804")
+	)
+	(wire
+		(pts
+			(xy 80.01 88.9) (xy 80.01 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "677e3e4f-47b9-4a00-a83d-9e2de181fc85")
+	)
+	(wire
+		(pts
+			(xy 130.81 31.75) (xy 130.81 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "686b6c36-240b-44ab-8a7b-54245a6e5201")
+	)
+	(wire
+		(pts
+			(xy 67.31 40.64) (xy 67.31 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6df466da-449f-4d27-a8e0-f7338230b274")
+	)
+	(wire
+		(pts
+			(xy 99.06 88.9) (xy 99.06 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70f9e74a-4cd3-47d5-a697-a5779f4019c5")
+	)
+	(wire
+		(pts
+			(xy 152.4 31.75) (xy 152.4 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "722ba92a-fb7b-4093-84d3-8e6d751dbae0")
+	)
+	(wire
+		(pts
+			(xy 130.81 97.79) (xy 90.17 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72836ce8-aa11-466a-ac8a-e02efbd5fd85")
+	)
+	(wire
+		(pts
+			(xy 118.11 31.75) (xy 118.11 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "737f665c-5ed1-4d53-8fff-cb613e27dc40")
+	)
+	(wire
+		(pts
+			(xy 80.01 31.75) (xy 80.01 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cdac82a-fc6d-4ad6-85fb-0d7dd29f7b1d")
+	)
+	(wire
+		(pts
+			(xy 118.11 31.75) (xy 124.46 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7db3f405-65a6-4b44-97b4-27a639d532a6")
+	)
+	(wire
+		(pts
+			(xy 99.06 71.12) (xy 99.06 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86576e88-d7ec-46ab-bab4-8ba408647517")
+	)
+	(wire
+		(pts
+			(xy 146.05 31.75) (xy 152.4 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88c3d385-9b09-4eed-92cf-dfbb1248b2f8")
+	)
+	(wire
+		(pts
+			(xy 118.11 90.17) (xy 140.97 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b87a841-9159-4685-bd41-90301d679c4f")
+	)
+	(wire
+		(pts
+			(xy 80.01 31.75) (xy 92.71 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "900d64ac-ca45-4674-8260-47580f7951e6")
+	)
+	(wire
+		(pts
+			(xy 110.49 95.25) (xy 110.49 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91e87762-3563-4c25-92fd-a3f798252242")
+	)
+	(wire
+		(pts
+			(xy 92.71 88.9) (xy 92.71 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e5e3ec6-99b2-4eff-8252-2677e10cba3d")
+	)
+	(wire
+		(pts
+			(xy 67.31 88.9) (xy 67.31 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0533801-7232-4355-b88c-d6127f959394")
+	)
+	(wire
+		(pts
+			(xy 152.4 53.34) (xy 152.4 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a15f5076-b137-4a65-9077-04a920555432")
+	)
+	(wire
+		(pts
+			(xy 115.57 93.98) (xy 115.57 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a540baba-ba89-4bb7-bafc-e8e0d7946ff6")
+	)
+	(wire
+		(pts
+			(xy 105.41 88.9) (xy 105.41 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a81bd33f-6010-4e90-bc49-a2497871f39b")
+	)
+	(wire
+		(pts
+			(xy 130.81 31.75) (xy 146.05 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aef078bf-cb32-4d87-9f9e-abbe084c6972")
+	)
+	(wire
+		(pts
+			(xy 146.05 53.34) (xy 146.05 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3100708-968b-481d-ab59-0901a4599ff2")
+	)
+	(wire
+		(pts
+			(xy 130.81 71.12) (xy 130.81 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5fe9e1c-60d0-4a75-a875-229cd324e4fa")
+	)
+	(wire
+		(pts
+			(xy 118.11 53.34) (xy 118.11 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8438764-ce07-4adc-9ae8-8a9d8eaf3a6e")
+	)
+	(wire
+		(pts
+			(xy 67.31 53.34) (xy 67.31 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb706fb2-b6a0-403c-8855-38c29800a069")
+	)
+	(wire
+		(pts
+			(xy 87.63 99.06) (xy 87.63 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be4f0f09-c903-4cb7-b655-153faae3a904")
+	)
+	(wire
+		(pts
+			(xy 146.05 31.75) (xy 146.05 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c30a5975-6a9b-41dd-8472-2009837c3955")
+	)
+	(wire
+		(pts
+			(xy 73.66 31.75) (xy 80.01 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb36adda-820b-4942-97f6-61c9199285d1")
+	)
+	(wire
+		(pts
+			(xy 152.4 88.9) (xy 152.4 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb560fd8-e091-48ff-ade9-576d05424755")
+	)
+	(wire
+		(pts
+			(xy 73.66 31.75) (xy 73.66 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc74ad61-c735-42db-998e-6a5413cdd1b1")
+	)
+	(wire
+		(pts
+			(xy 67.31 92.71) (xy 135.89 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1944849-16f3-4700-8c27-da52463dd3ab")
+	)
+	(wire
+		(pts
+			(xy 105.41 31.75) (xy 105.41 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6a85f2c-b1ea-402b-aa94-f87cccc7f91f")
+	)
+	(wire
+		(pts
+			(xy 67.31 31.75) (xy 73.66 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7efd5e7-5458-4e3f-a5da-13ce0cb15b4b")
+	)
+	(wire
+		(pts
+			(xy 146.05 71.12) (xy 146.05 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da883535-149d-40ef-92ce-7dbdef75d7be")
+	)
+	(wire
+		(pts
+			(xy 118.11 88.9) (xy 118.11 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db3eac53-df28-400c-999f-e9cc6cba7415")
+	)
+	(wire
+		(pts
+			(xy 158.75 40.64) (xy 158.75 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd98533f-11b2-42b5-9597-ea43f6ccc366")
+	)
+	(wire
+		(pts
+			(xy 152.4 31.75) (xy 158.75 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e41b3e07-97c8-4494-934c-46bc4cb72959")
+	)
+	(wire
+		(pts
+			(xy 118.11 95.25) (xy 118.11 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4736131-47fb-474b-93be-0ca7dbc6bf20")
+	)
+	(wire
+		(pts
+			(xy 111.76 31.75) (xy 118.11 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e77434ea-3c5a-4bd6-9306-eb7c43e6a9de")
+	)
+	(wire
+		(pts
+			(xy 130.81 88.9) (xy 130.81 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e86a11dc-c190-474f-986c-c7afebd55026")
+	)
+	(wire
+		(pts
+			(xy 105.41 53.34) (xy 105.41 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eed850f9-4783-4e88-8ab8-053301f0c891")
+	)
+	(wire
+		(pts
+			(xy 158.75 96.52) (xy 92.71 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4ab1b4f-4826-4542-87d9-f5aed9acfdc5")
+	)
+	(wire
+		(pts
+			(xy 85.09 99.06) (xy 80.01 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5eb06fb-26f1-46b4-b787-3a5444791f5f")
+	)
+	(wire
+		(pts
+			(xy 130.81 53.34) (xy 130.81 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f609c90a-44d4-4ceb-a0a7-ffb17b0ab9e3")
+	)
+	(wire
+		(pts
+			(xy 92.71 53.34) (xy 92.71 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd4166af-2513-40fb-baba-ecea8544af10")
+	)
+	(wire
+		(pts
+			(xy 73.66 88.9) (xy 73.66 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd86221a-6dcb-40c1-af51-0824ea0f8809")
+	)
+	(global_label "OUT5_G1"
+		(shape input)
+		(at 113.03 101.6 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "072f02fa-0518-4727-85f3-15c005de7451")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 113.03 112.8704 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT9_B1"
+		(shape input)
+		(at 138.43 101.6 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0a3fe2cd-541e-4f03-8a99-7453c1441721")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 138.43 112.8704 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT2_R2"
+		(shape input)
+		(at 90.17 101.6 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2a608802-8b46-4802-87c3-14ecdf3aa76d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.17 112.8704 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT7_G3"
+		(shape input)
+		(at 118.11 101.6 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "33df06eb-3113-4e28-97d8-b15ba8e040e7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 118.11 112.8704 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT4_G0"
+		(shape input)
+		(at 110.49 101.6 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "417995ed-1f01-45f9-bdb4-e69619bd3fd9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 110.49 112.8704 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT8_B0"
+		(shape input)
+		(at 135.89 101.6 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "78e3eb0c-5767-4471-82d9-2f15d012b63a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 135.89 112.8704 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT3_R3"
+		(shape input)
+		(at 92.71 101.6 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7bda988e-56fa-44ae-ad7b-b8ee71ab142a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.71 112.8704 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT6_G2"
+		(shape input)
+		(at 115.57 101.6 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "82916dc5-da08-409b-ba4f-b28f17de5878")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 115.57 112.8704 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT0_R0"
+		(shape input)
+		(at 85.09 101.6 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9770be02-c681-482f-b962-681a7dc65a4e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.09 112.8704 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "+12V"
+		(shape input)
+		(at 111.76 29.21 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "aa9654b8-cbfa-4a35-a03c-7ea85e666cef")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 111.76 21.1448 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "OUT1_R1"
+		(shape input)
+		(at 87.63 101.6 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b94eacae-9e13-4d6f-afea-464a6055b4e0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 87.63 112.8704 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT11_B3"
+		(shape input)
+		(at 143.51 101.6 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dcea6f9b-4425-4a68-aac2-7ad1af7332dd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 143.51 114.0799 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT10_B2"
+		(shape input)
+		(at 140.97 101.6 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f6ab4fff-89af-4e2e-a6f8-aa8cfaae5afc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 140.97 114.0799 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED_CV28:LED_CV28")
+		(at 118.11 63.5 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "07d97fb9-330b-44af-a2fc-4609c81a49ef")
+		(property "Reference" "D8"
+			(at 114.808 71.12 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED_CV28"
+			(at 114.808 68.072 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CV28D-FCC:LED_CV28"
+			(at 115.316 64.262 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 118.11 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "797ebfb6-081d-46ac-961b-4555b9c4ab98")
+		)
+		(pin "3"
+			(uuid "190eb901-f34e-474b-b892-4a7b4b821713")
+		)
+		(pin "1"
+			(uuid "f2a0d107-9460-406e-8312-485bb258439c")
+		)
+		(pin "6"
+			(uuid "b9e41200-a9ea-4f8f-acd4-6af52ce11b8a")
+		)
+		(pin "5"
+			(uuid "57317fa5-8f36-4783-b1f5-6d8378393dc1")
+		)
+		(pin "2"
+			(uuid "20654e64-7ed1-47de-be6e-d3dff5253397")
+		)
+		(instances
+			(project "LED_Module_12RGB_TLC5925"
+				(path "/e21700ea-5a72-4e4b-ac9c-efa1f264ee47/ad0a14f1-6da0-46c6-9399-73d6d5c50766"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED_CV28:LED_CV28")
+		(at 67.31 81.28 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0a72b82d-ab54-4c5d-b231-72686810cfaf")
+		(property "Reference" "D3"
+			(at 64.1351 88.773 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED_CV28"
+			(at 64.008 85.598 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CV28D-FCC:LED_CV28"
+			(at 64.516 82.042 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 67.31 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 67.31 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "f06daf11-b0aa-4c8f-b143-33c752515ae1")
+		)
+		(pin "1"
+			(uuid "682dcfc2-381f-48bc-ad5d-35c8480bc0b6")
+		)
+		(pin "4"
+			(uuid "91e56ff2-e6a9-4357-ba87-5e23886cfc77")
+		)
+		(pin "2"
+			(uuid "64f2a7b3-8a1e-4938-9a05-307914405e15")
+		)
+		(pin "6"
+			(uuid "cc7dc45d-aff8-492a-a0c6-bd6b8d7e10b8")
+		)
+		(pin "5"
+			(uuid "120c5d9c-776d-42e3-8c56-a64315ed6d47")
+		)
+		(instances
+			(project "LED_Module_12RGB_TLC5925"
+				(path "/e21700ea-5a72-4e4b-ac9c-efa1f264ee47/ad0a14f1-6da0-46c6-9399-73d6d5c50766"
+					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED_CV28:LED_CV28")
+		(at 92.71 63.5 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0fe8ffca-ed48-4303-8938-2ba15a8cb159")
+		(property "Reference" "D5"
+			(at 89.408 71.12 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED_CV28"
+			(at 89.408 68.072 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CV28D-FCC:LED_CV28"
+			(at 89.916 64.262 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 92.71 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "b4ba2c4b-3624-4d96-b028-ac6f385b3603")
+		)
+		(pin "3"
+			(uuid "d882a7a1-8ae2-46b9-82b2-3298c7db2a31")
+		)
+		(pin "1"
+			(uuid "d9469e34-1f50-4cab-a6ba-ccc5f457b464")
+		)
+		(pin "6"
+			(uuid "a533f10a-56b2-4f3b-bc90-70623200b1f1")
+		)
+		(pin "5"
+			(uuid "2cb8e041-c3b9-416e-a521-d4b595e10abb")
+		)
+		(pin "2"
+			(uuid "19f2cb63-123b-4317-ad20-4d99be2b3ca4")
+		)
+		(instances
+			(project "LED_Module_12RGB_TLC5925"
+				(path "/e21700ea-5a72-4e4b-ac9c-efa1f264ee47/ad0a14f1-6da0-46c6-9399-73d6d5c50766"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED_CV28:LED_CV28")
+		(at 118.11 81.28 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "291fa3f0-4f55-4d0c-8f15-1e317b2df877")
+		(property "Reference" "D9"
+			(at 114.9351 88.773 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED_CV28"
+			(at 114.808 85.598 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CV28D-FCC:LED_CV28"
+			(at 115.316 82.042 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 118.11 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "270910a8-144d-4be1-bcea-c676109a1aa9")
+		)
+		(pin "1"
+			(uuid "ee121ab5-99ec-4f7f-ac0f-96f04e4683f9")
+		)
+		(pin "4"
+			(uuid "d79277d4-62c9-4066-9f69-fb5b9a489ff3")
+		)
+		(pin "2"
+			(uuid "a3e8ad6a-3cfa-4bfa-9b31-973d99709954")
+		)
+		(pin "6"
+			(uuid "4ec59474-879a-4420-ad6e-063da0d5a5be")
+		)
+		(pin "5"
+			(uuid "f602a846-5720-4556-9763-ac5740e6c169")
+		)
+		(instances
+			(project "LED_Module_12RGB_TLC5925"
+				(path "/e21700ea-5a72-4e4b-ac9c-efa1f264ee47/ad0a14f1-6da0-46c6-9399-73d6d5c50766"
+					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED_CV28:LED_CV28")
+		(at 92.71 45.72 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2afbb87b-2b1e-4011-9d5a-60b21680452a")
+		(property "Reference" "D4"
+			(at 89.535 52.959 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED_CV28"
+			(at 89.408 50.038 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CV28D-FCC:LED_CV28"
+			(at 89.916 46.482 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 92.71 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5f988b79-9bb8-47f0-938b-60ef94411961")
+		)
+		(pin "3"
+			(uuid "34616e0c-8e0c-4b75-8b9e-e190b1901f26")
+		)
+		(pin "2"
+			(uuid "ee9f279b-6937-45ad-a446-3047e470ecbe")
+		)
+		(pin "4"
+			(uuid "fc1069a5-70a4-42b4-be67-b785520b3c54")
+		)
+		(pin "6"
+			(uuid "afdccb68-fb37-4fed-b70f-217532f1e2aa")
+		)
+		(pin "5"
+			(uuid "905f1023-0507-487e-ad72-e9e02c78bc6a")
+		)
+		(instances
+			(project "LED_Module_12RGB_TLC5925"
+				(path "/e21700ea-5a72-4e4b-ac9c-efa1f264ee47/ad0a14f1-6da0-46c6-9399-73d6d5c50766"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED_CV28:LED_CV28")
+		(at 146.05 45.72 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "737b3fde-9339-4da4-8982-5560c8db382a")
+		(property "Reference" "D10"
+			(at 142.748 54.864 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED_CV28"
+			(at 142.748 50.038 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CV28D-FCC:LED_CV28"
+			(at 143.256 46.482 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 146.05 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "de23ef54-e32f-49a9-bd11-11e464446920")
+		)
+		(pin "3"
+			(uuid "5dccf48f-8475-4697-847b-90234290fd78")
+		)
+		(pin "2"
+			(uuid "fa193c82-1a27-4235-9eb4-74a96f236e1d")
+		)
+		(pin "4"
+			(uuid "c70b1034-6eb3-4a07-b6be-2f71194b0d07")
+		)
+		(pin "6"
+			(uuid "519ff87e-cf42-4622-83ed-c8a50bd414e9")
+		)
+		(pin "5"
+			(uuid "151dda06-c0a4-4f51-a919-f40a39a1ce77")
+		)
+		(instances
+			(project "LED_Module_12RGB_TLC5925"
+				(path "/e21700ea-5a72-4e4b-ac9c-efa1f264ee47/ad0a14f1-6da0-46c6-9399-73d6d5c50766"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED_CV28:LED_CV28")
+		(at 146.05 81.28 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "995e297b-2b04-4190-8900-ba564315ac2f")
+		(property "Reference" "D12"
+			(at 143.002 90.424 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED_CV28"
+			(at 142.748 85.598 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CV28D-FCC:LED_CV28"
+			(at 143.256 82.042 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 146.05 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "94e7d6bf-0e32-473c-9ff9-97675a79f43e")
+		)
+		(pin "1"
+			(uuid "1972f492-8334-4b2b-812c-187e261d97f3")
+		)
+		(pin "4"
+			(uuid "3f1f950d-5552-4124-978b-54183658f225")
+		)
+		(pin "2"
+			(uuid "080e12ff-df43-4e8d-904b-e09a00bc89fb")
+		)
+		(pin "6"
+			(uuid "b78ce264-a150-4716-b0c3-ef596408349c")
+		)
+		(pin "5"
+			(uuid "a72840ef-76a4-4bdf-ad0b-660545c7e9b3")
+		)
+		(instances
+			(project "LED_Module_12RGB_TLC5925"
+				(path "/e21700ea-5a72-4e4b-ac9c-efa1f264ee47/ad0a14f1-6da0-46c6-9399-73d6d5c50766"
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED_CV28:LED_CV28")
+		(at 146.05 63.5 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9a0ae8b8-d096-447c-8e14-20e0beab3489")
+		(property "Reference" "D11"
+			(at 142.748 72.644 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED_CV28"
+			(at 142.748 68.072 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CV28D-FCC:LED_CV28"
+			(at 143.256 64.262 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 146.05 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "bb4dcbaf-f47f-45d3-9971-40a48b807ea1")
+		)
+		(pin "3"
+			(uuid "dc3ff149-b280-41e6-ac77-6486376227dd")
+		)
+		(pin "1"
+			(uuid "99ec1741-d47e-426c-9f99-ea6f7313da65")
+		)
+		(pin "6"
+			(uuid "129ff388-66e4-4f84-98bf-8a74471f90cf")
+		)
+		(pin "5"
+			(uuid "92284b8a-bbdb-4fd5-875b-fb44fff088f0")
+		)
+		(pin "2"
+			(uuid "e5a15989-83a9-4b7d-9d27-5fa43ec1d4fc")
+		)
+		(instances
+			(project "LED_Module_12RGB_TLC5925"
+				(path "/e21700ea-5a72-4e4b-ac9c-efa1f264ee47/ad0a14f1-6da0-46c6-9399-73d6d5c50766"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED_CV28:LED_CV28")
+		(at 67.31 45.72 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9a87bdf6-1970-4593-ab84-8d07c3a63530")
+		(property "Reference" "D1"
+			(at 64.135 52.959 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED_CV28"
+			(at 64.008 50.038 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CV28D-FCC:LED_CV28"
+			(at 64.516 46.482 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 67.31 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 67.31 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3b6435ed-820d-4146-a354-08cab88147d4")
+		)
+		(pin "3"
+			(uuid "fcda3c84-b007-43e8-a473-06a195a346cd")
+		)
+		(pin "2"
+			(uuid "dcff1549-1db8-4bc2-a1a9-a00daea2b017")
+		)
+		(pin "4"
+			(uuid "9f9ec30f-7bf8-49ce-9a19-0c58db116068")
+		)
+		(pin "6"
+			(uuid "11628735-c7e7-42f1-8361-2a8f3905c092")
+		)
+		(pin "5"
+			(uuid "f3f85c98-87bf-4227-a920-add76b812355")
+		)
+		(instances
+			(project "LED_Module_12RGB_TLC5925"
+				(path "/e21700ea-5a72-4e4b-ac9c-efa1f264ee47/ad0a14f1-6da0-46c6-9399-73d6d5c50766"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED_CV28:LED_CV28")
+		(at 92.71 81.28 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a5cba660-36e0-49de-94d4-273d83d44135")
+		(property "Reference" "D6"
+			(at 89.5351 88.773 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED_CV28"
+			(at 89.408 85.598 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CV28D-FCC:LED_CV28"
+			(at 89.916 82.042 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 92.71 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "ab18b4e5-790c-41a0-944d-0fedcfb19a72")
+		)
+		(pin "1"
+			(uuid "5e9cd9d0-b479-4882-8ca6-e3d69df91dfc")
+		)
+		(pin "4"
+			(uuid "f14c52a3-a763-417d-a17c-5a9b3e94430d")
+		)
+		(pin "2"
+			(uuid "7610c2a7-dff3-4023-9c86-421afa359377")
+		)
+		(pin "6"
+			(uuid "b0b41d96-98c5-4172-b3b0-9d76aaf1fd84")
+		)
+		(pin "5"
+			(uuid "ebdcef68-d4c9-49f7-86df-54a6fb6c2f7f")
+		)
+		(instances
+			(project "LED_Module_12RGB_TLC5925"
+				(path "/e21700ea-5a72-4e4b-ac9c-efa1f264ee47/ad0a14f1-6da0-46c6-9399-73d6d5c50766"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED_CV28:LED_CV28")
+		(at 118.11 45.72 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b8131401-01bf-48eb-8ba9-d71dc55671e0")
+		(property "Reference" "D7"
+			(at 114.935 52.959 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED_CV28"
+			(at 114.808 50.038 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CV28D-FCC:LED_CV28"
+			(at 115.316 46.482 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 118.11 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e3248277-2369-4f8e-8a53-b8302e24852b")
+		)
+		(pin "3"
+			(uuid "2e339745-9b10-4f5a-941b-2cf9e0c228de")
+		)
+		(pin "2"
+			(uuid "4081fd9c-3d90-43fb-accc-e074e7e92b45")
+		)
+		(pin "4"
+			(uuid "351427c5-6499-4cc5-beb3-7a561728ccef")
+		)
+		(pin "6"
+			(uuid "648a0c3c-f9f6-4cac-8b09-9f1be12cde02")
+		)
+		(pin "5"
+			(uuid "b5bfb780-4eaa-4225-9e8f-1c2971812bed")
+		)
+		(instances
+			(project "LED_Module_12RGB_TLC5925"
+				(path "/e21700ea-5a72-4e4b-ac9c-efa1f264ee47/ad0a14f1-6da0-46c6-9399-73d6d5c50766"
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED_CV28:LED_CV28")
+		(at 67.31 63.5 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d1061e0b-69dc-40b3-b88f-21b64c1354d1")
+		(property "Reference" "D2"
+			(at 64.008 71.12 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED_CV28"
+			(at 64.008 68.072 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CV28D-FCC:LED_CV28"
+			(at 64.516 64.262 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 67.31 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 67.31 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "78959b00-8062-41be-91a0-2b0db8aca7e3")
+		)
+		(pin "3"
+			(uuid "8f1751f9-efdc-4e2f-9d3c-020f41baec12")
+		)
+		(pin "1"
+			(uuid "ed797e8f-6555-4c0d-861b-e78dffa4142c")
+		)
+		(pin "6"
+			(uuid "64cd3073-e834-4772-aa67-9ab19c3e7608")
+		)
+		(pin "5"
+			(uuid "c31ffe37-1ff0-4b0a-abdc-d05519385826")
+		)
+		(pin "2"
+			(uuid "fbf4feda-fcf8-4814-bd18-13a53d521894")
+		)
+		(instances
+			(project "LED_Module_12RGB_TLC5925"
+				(path "/e21700ea-5a72-4e4b-ac9c-efa1f264ee47/ad0a14f1-6da0-46c6-9399-73d6d5c50766"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
 )
