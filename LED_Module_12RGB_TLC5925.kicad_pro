@@ -496,6 +496,21 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "+12V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 1.0,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3
       }
     ],
     "meta": {
@@ -503,7 +518,12 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "+12V",
+        "pattern": "+12V"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -645,17 +665,13 @@
         "uuid": "e21700ea-5a72-4e4b-ac9c-efa1f264ee47"
       }
     ],
-    "used_designators": "D1-12,C3",
+    "used_designators": "D1-14,C3-7,J1-5,F1,U2-3",
     "variants": []
   },
   "sheets": [
     [
       "e21700ea-5a72-4e4b-ac9c-efa1f264ee47",
       "LED_Module_12RGB_TLC5925"
-    ],
-    [
-      "c9570fdc-710b-4829-a810-6d8ea66c2da6",
-      "Power"
     ],
     [
       "7ccd4a93-45d1-48fb-8b2c-83c0302a8772",

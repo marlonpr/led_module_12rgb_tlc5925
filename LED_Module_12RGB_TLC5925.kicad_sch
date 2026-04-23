@@ -290,53 +290,7 @@
 		)
 	)
 	(sheet
-		(at 46.99 26.67)
-		(size 78.74 34.29)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "c9570fdc-710b-4829-a810-6d8ea66c2da6")
-		(property "Sheetname" "Power"
-			(at 46.99 25.9584 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "power.kicad_sch"
-			(at 46.99 61.5446 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "LED_Module_12RGB_TLC5925"
-				(path "/e21700ea-5a72-4e4b-ac9c-efa1f264ee47"
-					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 142.24 76.2)
+		(at 49.53 27.94)
 		(size 78.74 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -352,7 +306,7 @@
 		)
 		(uuid "eb0868ad-5565-4304-8e78-48237f41af69")
 		(property "Sheetname" "Connectors"
-			(at 142.24 75.4884 0)
+			(at 49.53 27.2284 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -363,7 +317,7 @@
 			)
 		)
 		(property "Sheetfile" "connectors.kicad_sch"
-			(at 142.24 108.5346 0)
+			(at 49.53 60.2746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
