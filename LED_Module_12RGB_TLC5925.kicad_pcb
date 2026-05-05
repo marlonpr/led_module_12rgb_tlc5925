@@ -1439,7 +1439,7 @@
 			(uuid "478a4d07-0b88-460a-bea1-fa3019aae64f")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
 			(offset
 				(xyz 0 0.5 4.5)
 			)
@@ -2041,7 +2041,7 @@
 		(property "Reference" "D2"
 			(at -3.1 0.7 0)
 			(layer "F.SilkS")
-			(uuid "b2521801-9163-45e0-a869-b8600aaf229c")
+			(uuid "e1bf06d7-88b6-44f6-8dcd-3f4e561cce1f")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -2052,7 +2052,7 @@
 		(property "Value" "LED_CV28"
 			(at -1 2.5 90)
 			(layer "F.Fab")
-			(uuid "55d476c6-8884-41c3-bb91-f30a4f1e70c3")
+			(uuid "13455b77-bbe0-4cdc-bdd6-dabd40af4360")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -2064,7 +2064,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "987c7b1f-a94c-4669-aa6d-cc946312009b")
+			(uuid "7c7f6094-e076-42dc-9ce1-210225c36f20")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2076,7 +2076,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b1cbaa26-1c7d-42ed-82bd-bbdc80f1a3e0")
+			(uuid "7ec1d22b-36fd-4567-8afc-f781e2798e7b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2212,7 +2212,7 @@
 			(uuid "85765f13-6bb5-4a7f-b1ab-79b0db7c00a2")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
 			(offset
 				(xyz 0 0.5 4.5)
 			)
@@ -2231,7 +2231,7 @@
 		(property "Reference" "U1"
 			(at -0.129846 4.894999 0)
 			(layer "F.SilkS")
-			(uuid "590405d0-1fce-4d46-938c-bca5b1a54dc5")
+			(uuid "ec2f5efc-03c7-4324-baae-d22caab74eb1")
 			(effects
 				(font
 					(size 1 1)
@@ -2242,7 +2242,7 @@
 		(property "Value" "TLC5925IPWR"
 			(at -5.33 0.525 90)
 			(layer "F.Fab")
-			(uuid "8ed024d6-d95e-4632-a235-e5a826c9ffcf")
+			(uuid "7bd5b405-e3e5-4f88-895c-c1a1ecfea47d")
 			(effects
 				(font
 					(size 1 1)
@@ -2254,7 +2254,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2928b620-c340-42ac-8bb1-10212c96e47b")
+			(uuid "7b7483d5-0fa0-421d-be52-5b8c54dcf929")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2265,7 +2265,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bd2d5a11-5319-4ad7-9fb2-c525e087732e")
+			(uuid "63400d83-ae62-46d8-b4c7-d28b5b575b0a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2672,7 +2672,7 @@
 			(uuid "06b03a61-1efc-49cd-8829-0077d0d19e1b")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/10.0/footprints/TLC5925IPWR/TLC5925IPWR.step"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/10.0/footprints/TLC5925IPWR/TLC5925IPWR.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3021,7 +3021,7 @@
 			(uuid "b2f476f0-735f-4ffa-8d11-d098adc81bb9")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
 			(offset
 				(xyz 0 0.5 4.5)
 			)
@@ -3321,7 +3321,7 @@
 		(property "Reference" "D3"
 			(at 3.1 -1.3 0)
 			(layer "F.SilkS")
-			(uuid "d2dffefe-3941-49c7-a76c-18856cdfe88a")
+			(uuid "6aac0df3-4913-4dbf-befa-5ca2b01e279e")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -3332,7 +3332,7 @@
 		(property "Value" "LED_CV28"
 			(at -1 2.5 90)
 			(layer "F.Fab")
-			(uuid "4307b77f-1dae-4c4e-be1d-505522029fd7")
+			(uuid "387aa586-0863-4253-9ba4-f10f2b3c11ff")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -3344,7 +3344,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1120bb25-04b1-4fd5-ac0c-8bfa6db85b8e")
+			(uuid "4d55057e-38ed-40e2-aed7-899503ca7b61")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3356,7 +3356,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dd4c0cbf-9d6c-4737-8033-17db8ec6af41")
+			(uuid "d632d0eb-229b-446f-b0cb-e2ae47eee877")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3492,7 +3492,7 @@
 			(uuid "a02f6a49-ddfa-4189-9732-925439fa5be7")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
 			(offset
 				(xyz 0 0.5 4.5)
 			)
@@ -3841,7 +3841,7 @@
 			(uuid "56109110-0834-4b01-a8fd-06ccb29fb748")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
 			(offset
 				(xyz 0 0.5 4.5)
 			)
@@ -4032,7 +4032,7 @@
 			(uuid "f5d145cc-e527-4c83-9d16-c6a214276031")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
 			(offset
 				(xyz 0 0.5 4.5)
 			)
@@ -4223,7 +4223,7 @@
 			(uuid "e42e5ce5-6307-4e61-9c9b-00420f7330cf")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
 			(offset
 				(xyz 0 0.5 4.5)
 			)
@@ -4680,7 +4680,7 @@
 			(uuid "76afba1e-b3e2-455e-a9b5-a32dc0195d25")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
 			(offset
 				(xyz 0 0.5 4.5)
 			)
@@ -4871,7 +4871,7 @@
 			(uuid "78ce667a-ef05-405f-89e0-5c54cbffa25f")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
 			(offset
 				(xyz 0 0.5 4.5)
 			)
@@ -5170,7 +5170,7 @@
 			(uuid "cabe10db-c503-4ddf-8fca-c7cbfb94414e")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
 			(offset
 				(xyz 0 0.5 4.5)
 			)
@@ -5190,7 +5190,7 @@
 		(property "Reference" "D1"
 			(at 3.1 -1.3 0)
 			(layer "F.SilkS")
-			(uuid "3a807897-f183-48e5-8b38-b19ecfd79905")
+			(uuid "921c4401-e20b-4579-bf94-372f4569151d")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -5201,7 +5201,7 @@
 		(property "Value" "LED_CV28"
 			(at -1 2.5 90)
 			(layer "F.Fab")
-			(uuid "453c407e-b3e2-43b8-997b-386aa866557f")
+			(uuid "52c11a4f-2cc3-4648-86c6-bd15cb6ba838")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -5213,7 +5213,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "26bca911-706d-4104-8250-4c3e09b01ece")
+			(uuid "b5bbb804-4e6f-4a58-9dc8-6a2ddd4cd58f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5225,7 +5225,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "06b0ddf7-d4b1-4a01-8688-db2a8fc53d0e")
+			(uuid "d503791e-50c7-4836-aa42-9dc2f2e84f3d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5361,7 +5361,7 @@
 			(uuid "1f44dc79-7e2b-4064-aaff-f044feb58918")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
 			(offset
 				(xyz 0 0.5 4.5)
 			)
@@ -5552,7 +5552,7 @@
 			(uuid "0b409596-0104-4fcd-a23f-f0c6f6b352bd")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Marlon/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
+		(model "C:/Users/Marlon/OneDrive/Documents/KiCad/9.0/footprints/CV28D-FCC/CV28D-FCC.stp"
 			(offset
 				(xyz 0 0.5 4.5)
 			)
